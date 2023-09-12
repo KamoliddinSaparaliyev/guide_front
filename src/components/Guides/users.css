@@ -1,0 +1,7 @@
+.select-users {
+  transition: all 1s ease !important;
+  transform: translateX(-440px);
+}
+.translate-user-box {
+  transform: translateX(0);
+}
